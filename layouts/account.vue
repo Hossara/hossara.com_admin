@@ -9,3 +9,5 @@
     </div>
   </main>
 </template>
+
+<style src="../assets/layouts/account.sass" scoped></style>
